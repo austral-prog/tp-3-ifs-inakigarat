@@ -25,5 +25,4 @@ def positive():
     else:
         print("El numero es cero")
 
-    pass
-positive()
+    

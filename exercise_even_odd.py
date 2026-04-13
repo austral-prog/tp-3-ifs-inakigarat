@@ -21,6 +21,4 @@ def even_odd():
         print(f"El numero {numero} es impar")
 
 
-    pass
 
-even_odd()
